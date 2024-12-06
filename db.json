@@ -1,0 +1,356 @@
+{
+	"items": [
+		{
+      "id": "1",
+			"title": "PS5 + 2 Controles y Juego",
+			"image": "https://http2.mlstatic.com/D_Q_NP_2X_953550-MLA80457239548_112024-V.webp",
+			"description": "Incluye 2 controles y un juego",
+			"detail": {
+				"info": "Consola PlayStation 5 con 2 controles inalámbricos DualSense y un juego a elección. Procesador ultra rápido y gráficos en 4K HDR para la mejor experiencia de gaming.",
+				"price": 3200000,
+				"address": "Carrera 15 #103-45, Bogotá"
+			}
+		},
+		{
+      "id": "2",
+			"title": "PS5 + Control Adicional",
+			"image": "https://http2.mlstatic.com/D_Q_NP_2X_971868-MCO79943614134_102024-V.webp",
+			"description": "Un control extra incluido",
+			"detail": {
+				"info": "Consola PlayStation 5 con 1 control adicional. Compatible con juegos de última generación y retrocompatibilidad para títulos de PS4.",
+				"price": 2900000,
+				"address": "Calle 50 #20-30, Medellín"
+			}
+		},
+		{
+      "id": "3",
+			"title": "PS5 Bundle Juegos + Control",
+			"image": "https://http2.mlstatic.com/D_Q_NP_2X_909000-MLA69690277417_052023-V.webp",
+			"description": "Incluye 2 juegos exclusivos",
+			"detail": {
+				"info": "Consola PlayStation 5 con un bundle especial de dos juegos exclusivos y un control inalámbrico adicional. Gráficos 4K con ray tracing.",
+				"price": 3400000,
+				"address": "Av. Roosevelt #10-12, Cali"
+			}
+		},
+		{
+      "id": "4",
+			"title": "PS5 Digital + Control",
+			"image": "https://http2.mlstatic.com/D_Q_NP_2X_995651-MCO79943963862_102024-V.webp",
+			"description": "Edición digital con control",
+			"detail": {
+				"info": "PlayStation 5 edición digital con un control inalámbrico incluido. Ideal para jugar sin discos y acceder a la biblioteca digital de PS Store.",
+				"price": 2800000,
+				"address": "Carrera 7 #45-89, Barranquilla"
+			}
+		},
+		{
+      "id": "5",
+			"title": "Xbox One + Juego Exclusivo",
+			"image": "https://http2.mlstatic.com/D_Q_NP_2X_611437-MCO78585693335_082024-V.webp",
+			"description": "Incluye 1 juego exclusivo",
+			"detail": {
+				"info": "Consola Xbox One con un juego exclusivo de acción y gráficos en Full HD. Incluye un control ergonómico.",
+				"price": 1800000,
+				"address": "Calle 80 #40-20, Bucaramanga"
+			}
+		},
+		{
+      "id": "6",
+			"title": "Xbox One + 2 Controles",
+			"image": "https://http2.mlstatic.com/D_Q_NP_2X_611437-MCO78585693335_082024-V.webp",
+			"description": "Incluye 2 controles ergonómicos",
+			"detail": {
+				"info": "Consola Xbox One con 2 controles inalámbricos. Disfruta de juegos de alta calidad y compatibilidad con títulos retro.",
+				"price": 2000000,
+				"address": "Carrera 30 #25-50, Cartagena"
+			}
+		},
+		{
+      "id": "7",
+			"title": "Xbox One Bundle + Juego",
+			"image": "https://http2.mlstatic.com/D_Q_NP_2X_684295-MCO78458171048_082024-V.webp",
+			"description": "Incluye juego de aventuras",
+			"detail": {
+				"info": "Consola Xbox One con un bundle especial que incluye un juego de aventuras y gráficos inmersivos.",
+				"price": 1900000,
+				"address": "Av. 68 #15-60, Bogotá"
+			}
+		},
+		{
+      "id": "8",
+			"title": "Xbox One Edición Especial",
+			"image": "https://http2.mlstatic.com/D_Q_NP_2X_636230-MCO78416929167_082024-V.webp",
+			"description": "Incluye juego y diseño único",
+			"detail": {
+				"info": "Edición especial de Xbox One con diseño exclusivo, un control inalámbrico y un juego a elección.",
+				"price": 2200000,
+				"address": "Carrera 33 #12-34, Manizales"
+			}
+		},
+    {
+      "id": "9",
+      "title": "TV Samsung 55\" 4K UHD",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_958188-MLU74998359632_032024-V.webp",
+      "description": "Pantalla 4K UHD, Smart TV.",
+      "detail": {
+        "info": "TV Samsung 55\" con resolución 4K UHD, sistema Smart TV Tizen, y tecnología de sonido Dolby Digital Plus. Ideal para una experiencia cinematográfica en casa.",
+        "price": 2500000,
+        "address": "Av. El Dorado, Bogotá, Colombia"
+      }
+    },
+    {
+      "id": "10",
+      "title": "TV LG 65\" OLED 4K",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_958188-MLU74998359632_032024-V.webp",
+      "description": "Pantalla OLED 4K imagen superior.",
+      "detail": {
+        "info": "TV LG OLED de 65\", con resolución 4K, calidad de imagen superior, y sistema operativo WebOS para acceso a todas las aplicaciones de streaming.",
+        "price": 5500000,
+        "address": "Calle 100 #53-40, Bogotá, Colombia"
+      }
+    },
+    {
+      "id": "11",
+      "title": "TV Sony 50\" 4K UHD",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_656691-MLA80741682582_112024-V.webp",
+      "description": "Pantalla 4K con sistema Android TV.",
+      "detail": {
+        "info": "TV Sony de 50\" con resolución 4K UHD, sistema Android TV para acceso a tus apps y contenido favorito. Compatible con Chromecast.",
+        "price": 3000000,
+        "address": "Carrera 7 #24-50, Bogotá, Colombia"
+      }
+    },
+    {
+      "id": "12",
+      "title": "TV TCL 43\" 4K UHD",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_656691-MLA80741682582_112024-V.webp",
+      "description": "Pantalla 4K con Roku TV integrado.",
+      "detail": {
+        "info": "TV TCL 43\" con resolución 4K UHD, sistema Roku TV integrado para acceso a múltiples servicios de streaming. Gran opción para quienes buscan calidad a buen precio.",
+        "price": 1800000,
+        "address": "Calle 26 #50-11, Bogotá, Colombia"
+      }
+    },
+		{
+      "id": "13",
+      "title": "Laptop HP Pavilion 15",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_629768-MLU72829273907_112023-V.webp",
+      "description": "Pantalla 15.6\", Intel Core i7, 16GB RAM.",
+      "detail": {
+        "info": "Laptop HP Pavilion 15 con procesador Intel Core i7, 16GB de RAM, 512GB de SSD, ideal para tareas multitarea y entretenimiento.",
+        "price": 3500000,
+        "address": "Calle 45 #70-25, Bogotá, Colombia"
+      }
+    },
+    {
+      "id": "14",
+      "title": "Laptop Dell Inspiron 14",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_629768-MLU72829273907_112023-V.webp",
+      "description": "Pantalla 14\", Intel Core i5.",
+      "detail": {
+        "info": "Laptop Dell Inspiron 14 con procesador Intel Core i5, 8GB de RAM y 256GB de SSD, una opción ideal para estudiantes y profesionales.",
+        "price": 2500000,
+        "address": "Calle 19 #48-30, Bogotá, Colombia"
+      }
+    },
+    {
+      "id": "15",
+      "title": "Laptop Lenovo ThinkPad X1",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_799609-MLA79474196056_102024-V.webp",
+      "description": "Pantalla 13.3\", Intel.",
+      "detail": {
+        "info": "Laptop Lenovo ThinkPad X1 con procesador Intel Core i7, 16GB de RAM, 512GB de SSD, ideal para negocios y uso profesional.",
+        "price": 4500000,
+        "address": "Calle 76 #32-44, Bogotá, Colombia"
+      }
+    },
+    {
+      "id": "16",
+      "title": "Laptop MacBook Air M2",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_781541-MLA51356417291_082022-V.webp",
+      "description": "Pantalla Retina 13.3\".",
+      "detail": {
+        "info": "MacBook Air M2 con pantalla Retina de 13.3\", chip Apple M2, 8GB de RAM, y 256GB de almacenamiento SSD. Ideal para quienes buscan un portátil ultradelgado.",
+        "price": 7000000,
+        "address": "Carrera 5 #71-90, Bogotá, Colombia"
+      }
+    },
+    {
+      "id": "17",
+      "title": "Altavoz SoundLink Revolve+",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_601145-CBT51244736575_082022-V.webp",
+      "description": "Altavoz Bluetooth portátil.",
+      "detail": {
+        "info": "Altavoz Bose SoundLink Revolve+ con sonido 360° y conectividad Bluetooth. Ideal para escuchar música de calidad en cualquier lugar.",
+        "price": 1500000,
+        "address": "Av. 19 #45-30, Bogotá, Colombia"
+      }
+    },
+    {
+      "id": "18",
+      "title": "Altavoz SRS-XB43",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_601145-CBT51244736575_082022-V.webp",
+      "description": "Altavoz Bluetooth",
+      "detail": {
+        "info": "Altavoz Sony SRS-XB43 con tecnología Extra Bass y resistencia al agua. Perfecto para fiestas y exteriores.",
+        "price": 1200000,
+        "address": "Calle 50 #40-10, Bogotá, Colombia"
+      }
+    },
+    {
+      "id": "19",
+      "title": "Altavoz PartyBox 310",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_983070-MLU73844927521_012024-V.webp",
+      "description": "Altavoz portátil con luces.",
+      "detail": {
+        "info": "Altavoz JBL PartyBox 310 con luces LED, conectividad Bluetooth, y potente sonido ideal para grandes fiestas.",
+        "price": 2200000,
+        "address": "Carrera 10 #55-40, Bogotá, Colombia"
+      }
+    },
+    {
+      "id": "20",
+      "title": "Altavoz Stanmore II",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_983070-MLU73844927521_012024-V.webp",
+      "description": "Altavoz Bluetooth.",
+      "detail": {
+        "info": "Altavoz Marshall Stanmore II con sonido de alta calidad y conectividad Bluetooth. Perfecto para quienes buscan un diseño clásico y un audio excepcional.",
+        "price": 2500000,
+        "address": "Calle 72 #56-20, Bogotá, Colombia"
+      }
+    },
+    {
+      "id": "21",
+      "title": "Mouse G Pro X Superlight",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_671941-MLU72854928744_112023-V.webp",
+      "description": "Mouse gaming ultraligero.",
+      "detail": {
+        "info": "Mouse Logitech G Pro X Superlight, diseñado para jugadores profesionales. Con sensor HERO de 25K, ultraligero y altamente preciso.",
+        "price": 550000,
+        "address": "Carrera 15 #50-10, Bogotá, Colombia"
+      }
+    },
+    {
+      "id": "22",
+      "title": "Mouse DeathAdder V2",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_671941-MLU72854928744_112023-V.webp",
+      "description": "Mouse ergonómico para gaming.",
+      "detail": {
+        "info": "Mouse Razer DeathAdder V2, con sensor óptico Focus+ de 20K DPI, switches ópticos para una respuesta rápida y diseño ergonómico.",
+        "price": 400000,
+        "address": "Calle 19 #33-12, Bogotá, Colombia"
+      }
+    },
+    {
+      "id": "23",
+      "title": "Mouse Rival 600",
+      "image": "https://http2.mlstatic.com/S_Q_NP_2X_783674-MLU72643205167_112023-V.webp",
+      "description": "Mouse gaming con doble sensor.",
+      "detail": {
+        "info": "Mouse SteelSeries Rival 600, con dos sensores para un seguimiento preciso y una velocidad de respuesta ultrarrápida, ideal para juegos de alta velocidad.",
+        "price": 350000,
+        "address": "Av. 68 #10-20, Medellín, Colombia"
+      }
+    },
+    {
+      "id": "24",
+      "title": "Mouse Dark Core RGB/SE",
+      "image": "https://http2.mlstatic.com/S_Q_NP_2X_995784-MLU72599525029_102023-V.webp",
+      "description": "Mouse ergonómico con RGB.",
+      "detail": {
+        "info": "Mouse Corsair Dark Core RGB/SE, con tecnología de sensor óptico de 18,000 DPI, diseño ergonómico, y retroiluminación RGB personalizable.",
+        "price": 450000,
+        "address": "Calle 72 #56-20, Bogotá, Colombia"
+      }
+    },
+    {
+      "id": "25",
+      "title": "Audifonos WH-1000XM5",
+      "image": "https://http2.mlstatic.com/S_Q_NP_2X_606628-MLU74333967443_012024-V.webp",
+      "description": "Audífonos con cancelación.",
+      "detail": {
+        "info": "Audífonos Sony WH-1000XM5 con cancelación de ruido de alta calidad, hasta 30 horas de autonomía y sonido Hi-Res. Diseño cómodo y elegante.",
+        "price": 1800000,
+        "address": "Calle 50 #40-15, Bogotá, Colombia"
+      }
+    },
+    {
+      "id": "26",
+      "title": "Audifonos QuietComfort 45",
+      "image": "https://http2.mlstatic.com/S_Q_NP_2X_606628-MLU74333967443_012024-V.webp",
+      "description": "Audífonos con cancelación activa.",
+      "detail": {
+        "info": "Bose QuietComfort 45, audífonos de diadema con cancelación activa de ruido, sonido superior y hasta 24 horas de batería. Perfectos para viajes.",
+        "price": 1700000,
+        "address": "Calle 72 #56-20, Bogotá, Colombia"
+      }
+    },
+    {
+      "id": "27",
+      "title": "Audifonos JBL Tune",
+      "image": "https://http2.mlstatic.com/S_Q_NP_2X_783490-MLU72573463588_112023-V.webp",
+      "description": "Audífonos Bluetooth con sonido JBL.",
+      "detail": {
+        "info": "Audífonos JBL Tune 700BT con tecnología Bluetooth, sonido JBL Pure Bass, y hasta 27 horas de autonomía. Ligeros y cómodos para uso prolongado.",
+        "price": 450000,
+        "address": "Calle 80 #40-20, Medellín, Colombia"
+      }
+    },
+    {
+      "id": "28",
+      "title": "Audifonos AirPods Pro 2",
+      "image": "https://http2.mlstatic.com/S_Q_NP_2X_783490-MLU72573463588_112023-V.webp",
+      "description": "Audífonos in-ear con cancelación.",
+      "detail": {
+        "info": "Apple AirPods Pro 2 con cancelación activa de ruido, sonido espacial y hasta 6 horas de autonomía. Compatibles con dispositivos Apple y carga inalámbrica.",
+        "price": 1400000,
+        "address": "Carrera 10 #56-12, Bogotá, Colombia"
+      }
+    },
+    {
+      "id": "29",
+      "title": "Celular 13 Pro",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_706828-MLA74179817434_012024-V.webp",
+      "description": "Pantalla 6.73\" AMOLED",
+      "detail": {
+        "info": "Xiaomi 13 Pro con pantalla 6.73\" AMOLED, cámara principal de 50 MP, procesador Snapdragon 8 Gen 2, 12 GB de RAM y 256 GB de almacenamiento.",
+        "price": 3499000,
+        "address": "Carrera 7 #50-40, Cali"
+      }
+    },
+    {
+      "id": "30",
+      "title": "Celular 11 5G",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_706828-MLA74179817434_012024-V.webp",
+      "description": "Pantalla 6.7\" Fluid AMOLED",
+      "detail": {
+        "info": "OnePlus 11 5G con pantalla Fluid AMOLED de 6.7\", cámara de 50 MP, procesador Snapdragon 8 Gen 2, 16 GB de RAM y 256 GB de almacenamiento.",
+        "price": 4299000,
+        "address": "Calle 25 #10-30, Bogotá"
+      }
+    },
+    {
+      "id": "31",
+      "title": "Celular Galaxy S23 Ultra",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_743836-MLA75257072466_032024-V.webp",
+      "description": "Pantalla 6.8\" AMOLED.",
+      "detail": {
+        "info": "Samsung Galaxy S23 Ultra con pantalla 6.8\" Dynamic AMOLED 2X, cámara principal de 200 MP, 12 GB de RAM y 512 GB de almacenamiento.",
+        "price": 4999000,
+        "address": "Calle 19 #45-67, Bogotá"
+      }
+    },
+    {
+      "id": "32",
+      "title": "Celular 15 Pro Max",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_743836-MLA75257072466_032024-V.webp",
+      "description": "Pantalla 6.7\" OLED, cámara de 48 MP",
+      "detail": {
+        "info": "iPhone 15 Pro Max con pantalla OLED Super Retina XDR de 6.7\", procesador A17 Pro, cámara principal de 48 MP y 1 TB de almacenamiento.",
+        "price": 6499000,
+        "address": "Carrera 30 #80-90, Medellín"
+      }
+    }
+	]
+}
