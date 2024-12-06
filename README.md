@@ -1,4 +1,4 @@
-# Prueba Técnica - [Nombre del Proyecto]
+# Prueba Técnica - Meli
 
 
 ## Para ejecutar el proyecto localmente:
@@ -10,11 +10,12 @@
 
 
 ## Instalar dependencias
-Version Node: v18.20.5 
+Versión Node: v18.20.5 
 npm install
 
 ## Configurar las variables de entorno
-VITE_PRODUCT_API_URL=http://localhost:3000
+Por defecto, toma el http://localhost:3000/
+VITE_PRODUCT_API_URL= 'url_json_Server'
 
 ## Levantar Servidor 
 npx json-server db.json
