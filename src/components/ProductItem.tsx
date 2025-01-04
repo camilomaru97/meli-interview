@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useContext } from 'react'
 import { forwardRef } from 'react'
 import { type Product } from '../types'
 import ReactDOM from 'react-dom'
@@ -6,12 +6,24 @@ import { Modal } from './Modal'
 import { useModal } from '../hooks'
 import '../styles/components/product_item.css'
 import { formatToCOP } from '../utilities/formatNumber'
+import { ProductContext } from '../context'
 
 interface Props {
   items: Product
+  isFavoritePage?: boolean
 }
 
-export const ProductItem = forwardRef<HTMLDivElement, Props>(({ items }, ref) => {
+export const ProductItem = forwardRef<HTMLDivElement, Props>(({ items, isFavoritePage }, ref) => {
+
+  const { addProductAction, deleteProduct } = useContext(ProductContext)
+
+  const onhandleAdd = (items: Product) => {
+    if(isFavoritePage){
+      deleteProduct(items)
+    }else{
+      addProductAction(items)
+    }
+  }
 
   const { isModalOpen, handleModalOpen, handleModalClose } = useModal()
   const { 
@@ -49,12 +61,17 @@ export const ProductItem = forwardRef<HTMLDivElement, Props>(({ items }, ref) =>
             en <span className="product-item_fee"> 12 coutas de {formatToCOP(+price/12)} con 0% de interés </span>
           </p>
         </div>
-        <button 
-          onClick={handleModalOpen} 
-          className="product-item__button"
-        >
+        <section style={{ display: 'flex', flexDirection: 'column', gap:'3.5rem' }} >
+
+          <i onClick={() => onhandleAdd(items)} className='bx  bx-like  bx-sm '></i>
+          <button 
+            onClick={handleModalOpen} 
+            className="product-item__button"
+          >
           Ver más
-        </button>
+          </button>
+        </section>
+        
       </article>
       {isModalOpen && 
         ReactDOM.createPortal(

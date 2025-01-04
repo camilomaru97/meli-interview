@@ -1,6 +1,7 @@
 import React from 'react'
 import { ChangeEvent } from 'react'
 import '../styles/components/search_input.css'
+import { NavLink } from 'react-router-dom'
 
 interface SearchInputProps {
   value: string
@@ -18,6 +19,10 @@ export const SearchInput = ({ value, onChange, placeholder }: SearchInputProps) 
         onChange={onChange}
         placeholder={placeholder}
       />
+      <NavLink to="/cart">
+        <i className='bx bxs-like bx-md'></i>
+      </NavLink>
+      
     </section>
   )
 }
